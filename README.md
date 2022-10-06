@@ -47,6 +47,8 @@ src="https://img.shields.io/github/followers/Karthik-6996?logo=github&style=for-
 
 <p align="left"> <a href="https://discord.com/users/Karthik._.69#5634" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Karthik-6996" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/karthik._.69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Tech Mattrix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+img src =<"https://discord.c99.nl/widget/theme-3/801065809287053342.png"/>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Karthik-6996"><img src="https://github-readme-stats.vercel.app/api?username=Karthik-6996&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Karthik-6996's GitHub stats" /></a>
