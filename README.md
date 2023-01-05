@@ -7,7 +7,7 @@ Web and Discord Bot Developer
 A passionate frontend and backend developer from India!
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [Techmattrix.tk](http://techmattrix.netlify.app)
+* 🖥️  See my portfolio at [Techmattrix.netlify.app](http://techmattrix.netlify.app)
 * ✉️  You can contact me at [karthikgirish2007@gmail.com](mailto:karthikgirish2007@gmail.com)
 * 🚀  I'm currently working on [Comet Development](http://cometdevelopment.tk)
 * 🧠  I'm learning Discord.js
